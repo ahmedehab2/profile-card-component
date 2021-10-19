@@ -4,9 +4,9 @@
   box-sizing: border-box;
 }
 body {
-  background: url(/images/bg-pattern-bottom.svg) bottom -600px right -150px
+  background: url(images/bg-pattern-bottom.svg) bottom -700px right -200px
       no-repeat,
-    url(/images/bg-pattern-top.svg) top -500px left -250px no-repeat;
+    url(images/bg-pattern-top.svg) top -500px left -250px no-repeat;
   font-family: "Kumbh Sans", sans-serif;
   background-color: hsl(189, 65%, 36%);
 }
@@ -72,7 +72,7 @@ h3 {
 hr {
   margin-top: 30px;
   height: 1px;
-  color: yellow;
+  color: silver;
   background-color: rgb(230, 221, 221);
 }
 .attribution {
